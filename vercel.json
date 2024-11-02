@@ -1,0 +1,11 @@
+{
+    "functions": {
+      "api/*.js": {
+        "runtime": "nodejs16.x"
+      }
+    },
+    "env": {
+      "DEEPL_API_KEY": "@deepl_api_key"
+    }
+  }
+  
